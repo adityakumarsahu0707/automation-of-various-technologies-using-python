@@ -1,0 +1,4 @@
+- name: configure hadoop master
+  hosts: hadoopmaster
+  roles:
+          - role: hadoopmasterconfig

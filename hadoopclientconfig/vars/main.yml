@@ -1,0 +1,5 @@
+---
+# vars file for hadoopconfig
+
+masterip: 192.168.43.85
+portnum: 9100
