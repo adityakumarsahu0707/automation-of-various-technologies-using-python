@@ -1,2 +1,2 @@
-# automation-of-various-technologies-using-python
-Python scripts for automating AWS, Hadoop, Docker, Linux, Machine Learning technologies
+# Automation-of-various-Technologies-using-Python
+Python scripts and Ansible roles and playbooks for automating AWS, Hadoop, Docker, Linux, Machine Learning, Deep Learning, Jenkins technologies
